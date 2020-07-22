@@ -1,0 +1,12 @@
+#DB Connection Properties
+#url=jdbc:mysql://unity-construction.000webhostapp.com/id14306609_map?autoReconnect=true&useSSL=true
+url=jdbc:mysql://unity-construction.000webhostapp.com/id14306609_map
+login=id14306609_root
+password=JvzD18c6CEC0D@lz
+#password=
+
+
+#DB Connection Properties
+url=jdbc:mysql://localhost/map?autoReconnect=true&useSSL=false
+login=root
+password=
